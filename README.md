@@ -44,4 +44,4 @@ As heurísticas construtivas desenvolvidas para o BRKGA mostraram-se eficazes pa
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por [Robson P. Borges](https://github.com/rmaxflo)
