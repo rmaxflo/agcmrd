@@ -8,7 +8,7 @@ Este projeto apresenta duas abordagens inovadoras para o Problema da Árvore Ger
 
 A Árvore Geradora Mínima com Restrição de Diâmetro (AGMRD) é um problema de otimização combinatória importante em diversas áreas que requerem a otimização de redes para minimizar custos e garantir a eficiência operacional. A combinação de heurísticas clássicas e metaheurísticas proporciona ferramentas poderosas para enfrentar os desafios impostos pela natureza NP-difícil desse problema.
 
-Neste artigo apresentamos duas abordagens inovadoras para AGMRD. A primeira considera a criação de um backbone, um caminho central baseado no diâmetro restrito estabelecido. A segunda organiza os nós em níveis de acordo com o diâmetro restrito. Ambas geram soluções iniciais que são melhoradas pelo BRKGA (Biased Random-Key Genetic Algorithm) e, finalmente, por uma busca local. Os algoritmos propostos produzem soluções de alta qualidade em tempo computacional viável, demonstrando sua eficácia para resolver o problema AGMRD.
+Propõe-se duas abordagens inovadoras para AGMRD. A primeira considera a criação de um backbone, um caminho central baseado no diâmetro restrito estabelecido. A segunda organiza os nós em níveis de acordo com o diâmetro restrito. Ambas geram soluções iniciais que são melhoradas pelo BRKGA (Biased Random-Key Genetic Algorithm) e, finalmente, por uma busca local. Os algoritmos propostos produzem soluções de alta qualidade em tempo computacional viável, demonstrando sua eficácia para resolver o problema AGMRD.
 
 ## Palavras-chave
 
