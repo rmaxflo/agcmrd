@@ -2,4 +2,3 @@
 
 Materiais serão disponibilizados em momento posterior.
 
-Feito com ❤️ por [Robson P. Borges](https://github.com/rmaxflo)
